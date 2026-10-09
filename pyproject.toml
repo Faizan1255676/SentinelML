@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sentinelml"
+version = "1.0.0"
+description = "Enterprise Real-Time Financial Fraud Detection & ML-Observability Engine"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+    { name = "SentinelML Engineering Team" }
+]
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+addopts = "-ra -q --import-mode=importlib"
+testpaths = [
+    "tests",
+]
+pythonpath = [
+    ".",
+    "src",
+]
+asyncio_mode = "auto"
