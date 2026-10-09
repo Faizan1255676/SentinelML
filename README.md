@@ -7,12 +7,12 @@
 [![ML Model](https://img.shields.io/badge/model-LightGBM%20%2B%20SHAP-orange.svg)](https://lightgbm.readthedocs.io/)
 [![Observability](https://img.shields.io/badge/drift-KS--Test%20%26%20PSI-purple.svg)](#ml-observability--drift-detection)
 [![Test Suite](https://img.shields.io/badge/tests-23%20passed%20(pytest)-success.svg)](#testing--verification)
-[![Live Demo](https://img.shields.io/badge/live--dashboard-Streamlit%20UI-ff4b4b.svg)](https://five-pears-watch.loca.lt)
+[![Live Demo](https://img.shields.io/badge/live--dashboard-Streamlit%20UI-ff4b4b.svg)](https://boston-deaths-contributions-impossible.trycloudflare.com)
 
 > **SentinelML** is a production-grade, enterprise financial fraud risk scoring engine engineered for sub-20ms p95 latency SLAs. It delivers instantaneous risk classification, local feature explainability via SHAP TreeExplainer, automated statistical covariate drift detection (Kolmogorov-Smirnov & PSI), and a full-featured observability UI.
 >
-> 🔗 **Live Demo Dashboard**: [https://five-pears-watch.loca.lt](https://five-pears-watch.loca.lt)  
-> 📖 **Interactive Swagger Docs**: [https://breezy-stars-bake.loca.lt/docs](https://breezy-stars-bake.loca.lt/docs)
+> 🛡️ **Live Observability Dashboard**: [https://boston-deaths-contributions-impossible.trycloudflare.com](https://boston-deaths-contributions-impossible.trycloudflare.com)  
+> 📖 **FastAPI Swagger Docs**: [https://management-dog-workplace-humanitarian.trycloudflare.com/docs](https://management-dog-workplace-humanitarian.trycloudflare.com/docs)
 
 ---
 
