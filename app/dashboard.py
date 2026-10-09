@@ -35,7 +35,7 @@ st.set_page_config(
 )
 
 # Custom CSS for executive polish
-st.markdown(
+st.html(
     """
     <style>
     .metric-card {
@@ -57,8 +57,7 @@ st.markdown(
         background-color: #28a745; color: white; padding: 4px 10px; border-radius: 4px; font-weight: bold;
     }
     </style>
-    """,
-    unsafe_allow_html=True,
+    """
 )
 
 
