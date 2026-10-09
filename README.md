@@ -1,13 +1,18 @@
 # SentinelML: Enterprise Real-Time Financial Fraud & ML-Observability Engine
 
 [![Python Version](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
+[![CI Pipeline](https://github.com/Faizan1255676/SentinelML/actions/workflows/ci.yml/badge.svg)](https://github.com/Faizan1255676/SentinelML/actions)
 [![Architecture](https://img.shields.io/badge/architecture-Clean%20%2F%20DDD-green.svg)](#system-architecture)
 [![FastAPI](https://img.shields.io/badge/serving-FastAPI%20Async-009688.svg)](https://fastapi.tiangolo.com/)
 [![ML Model](https://img.shields.io/badge/model-LightGBM%20%2B%20SHAP-orange.svg)](https://lightgbm.readthedocs.io/)
 [![Observability](https://img.shields.io/badge/drift-KS--Test%20%26%20PSI-purple.svg)](#ml-observability--drift-detection)
 [![Test Suite](https://img.shields.io/badge/tests-23%20passed%20(pytest)-success.svg)](#testing--verification)
+[![Live Demo](https://img.shields.io/badge/live--dashboard-Streamlit%20UI-ff4b4b.svg)](https://five-pears-watch.loca.lt)
 
 > **SentinelML** is a production-grade, enterprise financial fraud risk scoring engine engineered for sub-20ms p95 latency SLAs. It delivers instantaneous risk classification, local feature explainability via SHAP TreeExplainer, automated statistical covariate drift detection (Kolmogorov-Smirnov & PSI), and a full-featured observability UI.
+>
+> 🔗 **Live Demo Dashboard**: [https://five-pears-watch.loca.lt](https://five-pears-watch.loca.lt)  
+> 📖 **Interactive Swagger Docs**: [https://breezy-stars-bake.loca.lt/docs](https://breezy-stars-bake.loca.lt/docs)
 
 ---
 
