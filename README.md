@@ -11,7 +11,7 @@
 
 > **SentinelML** is a production-grade, enterprise financial fraud risk scoring engine engineered for sub-20ms p95 latency SLAs. It delivers instantaneous risk classification, local feature explainability via SHAP TreeExplainer, automated statistical covariate drift detection (Kolmogorov-Smirnov & PSI), and a full-featured observability UI.
 >
-> 🛡️ **Live Observability Dashboard**: [https://boston-deaths-contributions-impossible.trycloudflare.com](https://boston-deaths-contributions-impossible.trycloudflare.com)  
+> 🛡️ **Live Observability Dashboard**: [[https://boston-deaths-contributions-impossible.trycloudflare.com](https://boston-deaths-contributions-impossible.trycloudflare.com) ](https://sentinelml-serrperjweggnmzc2eth2d.streamlit.app/) 
 > 📖 **FastAPI Swagger Docs**: [https://management-dog-workplace-humanitarian.trycloudflare.com/docs](https://management-dog-workplace-humanitarian.trycloudflare.com/docs)
 
 ---
